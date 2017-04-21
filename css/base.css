@@ -1,0 +1,4 @@
+.wheader{height: 53px;position: fixed;top: 0;line-height: 53px;background: #d4414c;width: 100%;text-align: center;color;#fff;}
+.wheader img{width: 320px;height: 53px;}
+.wcontent{background: #e5e5e5;overflow: auto;position: fixed;top: 53px;width: 100%;}
+.swiper-img{width: 100%;}
